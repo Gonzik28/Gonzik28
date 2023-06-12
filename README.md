@@ -21,12 +21,11 @@
 
 <h3> About Me: </h3>
 
-- 🔭 I'm currently working on enhancing my skills in Java application development and applying them to real-world projects.
-- 🌱 I'm actively learning the fundamentals of Java and various frameworks like Spring and Hibernate to deepen my knowledge and become a more proficient developer.
-- 👯 I'm looking for opportunities to collaborate with experienced Java developers who can share their expertise and mentor me on the path to professional growth.
-- 🤔  I would appreciate help in developing skills for writing efficient and scalable Java code, as well as learning best practices in software development.
-- 💬 Feel free to ask me questions about the projects I have worked on, my experience with Java frameworks, or general software development principles.
-- ⚡ Fun fact: I have a passion for exploring new technologies and discovering the possibilities they offer in the world of Java development.
+- 🔭 I'm currently working on improving my skills in developing Java applications and applying them to real-world projects.
+- 🌱 I am actively learning Java technologies and different frameworks like Spring and Hibernate to deepen my knowledge and become a more experienced developer.
+- 👯 I am looking to collaborate with experienced Java developers who can share their experiences and mentor me on my path to professional growth.
+- 🤔 I would appreciate help in developing skills in writing efficient and scalable Java code, as well as learning best practices in software development.
+- 💬 Feel free to ask me questions about projects I've worked on, my experience with Java frameworks, or general software development principles.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
